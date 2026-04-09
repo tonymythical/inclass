@@ -39,6 +39,11 @@ const poem = `
     For deep inside, beneath the mess,
     We love this chaos—more or less.
 
+    How we code is something to bode,
+    With every commit, a new episode.
+    We'll laugh, we'll cry, we'll push and merge,
+    In this wild world of code and surge.
+
     So here's to devs, and every quirk,
     Who brave the night and make it work.
     We'll meet again at dawn's first ray,
